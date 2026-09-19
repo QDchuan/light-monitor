@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.sqlite
+_bot_log*.txt
+*.log
+.DS_Store
+Thumbs.db
+*.xlsx
+*.csv
+*.sql

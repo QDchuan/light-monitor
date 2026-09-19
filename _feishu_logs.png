@@ -1,0 +1,149 @@
+客户案例
+ 
+应用中心
+ 
+开发文档
+ 
+智能助手
+ 
+更新日志
+ 
+开发者后台
+ 
+B区关照监测机器人
+已启用
+正式应用@cgc
+当前修改均已发布
+服务端日志检索
+事件日志检索
+客户端日志检索
+更多
+事件日志检索
+可查询调用飞书开放平台推送事件的日志数据，仅支持查询 7 日内的调用日志。
+如遇无法解决的问题，可直接将日志信息 转发给飞书客服
+起止时间段
+*
+事件类型
+ 
+URL 中无需包含请求参数
+Event ID
+返回状态
+ALLSUCCESSFAIL
+错误信息
+查询
+重置
+	
+时间
+	
+事件类型
+	
+EventID
+	
+返回状态
+	
+重试次数
+	
+事件推送耗时（ms）
+
+
+	2026-09-19 16:21:51.655	im.message.receive_v1	33f56458c1dd2d0e0e8741294c73aeb2	
+FAIL
+	-	68
+
+	2026-09-19 16:22:07.941	im.message.receive_v1	33f56458c1dd2d0e0e8741294c73aeb2	
+FAIL
+	1	69
+
+	2026-09-19 16:22:10.940	im.message.receive_v1	76cf0cbd08d4dd5e1452bb68dec58122	
+FAIL
+	-	69
+
+	2026-09-19 16:22:27.377	im.message.receive_v1	76cf0cbd08d4dd5e1452bb68dec58122	
+FAIL
+	1	72
+
+	2026-09-19 16:24:50.644	im.message.receive_v1	21e3cb252b52c8bd323ed834a941abf5	
+FAIL
+	-	74
+
+	2026-09-19 16:25:03.359	im.message.receive_v1	bb74f79eae59ecb9a6e773d7afff25da	
+FAIL
+	-	72
+
+	2026-09-19 16:25:07.142	im.message.receive_v1	21e3cb252b52c8bd323ed834a941abf5	
+FAIL
+	1	73
+
+	2026-09-19 16:25:19.399	im.message.receive_v1	bb74f79eae59ecb9a6e773d7afff25da	
+FAIL
+	1	73
+
+{
+  "eventId": "bb74f79eae59ecb9a6e773d7afff25da",
+  "success": "fail",
+  "appId": "cli_aa24fc927cb89d11",
+  "tenantKey": "157a077bd4465740",
+  "eventType": "im.message.receive_v1",
+  "hookType": 4,
+  "address": "",
+  "retryCnt": 1,
+  "costMills": 73,
+  "errorInfo": "",
+  "httpCode": 500,
+  "eventTime": "1789806319399"
+}
+了解日志字段含义
+
+
+	2026-09-19 16:27:08.192	im.message.receive_v1	33f56458c1dd2d0e0e8741294c73aeb2	
+FAIL
+	2	72
+
+	2026-09-19 16:27:27.292	im.message.receive_v1	76cf0cbd08d4dd5e1452bb68dec58122	
+FAIL
+	2	73
+
+	2026-09-19 16:30:07.504	im.message.receive_v1	21e3cb252b52c8bd323ed834a941abf5	
+FAIL
+	2	62
+
+	2026-09-19 16:30:20.122	im.message.receive_v1	bb74f79eae59ecb9a6e773d7afff25da	
+FAIL
+	2	58
+
+	2026-09-19 16:49:50.379	im.message.receive_v1	392516a75e9ce8b3d532360059cf3236	
+FAIL
+	-	59
+
+	2026-09-19 16:50:06.352	im.message.receive_v1	392516a75e9ce8b3d532360059cf3236	
+FAIL
+	1	60
+
+	2026-09-19 16:55:06.573	im.message.receive_v1	392516a75e9ce8b3d532360059cf3236	
+FAIL
+	2	62
+凭证与基础信息
+ 
+协作者管理
+ 
+添加应用能力
+ 
+机器人
+ 
+权限管理
+ 
+事件与回调
+ 
+安全设置
+ 
+测试企业和人员
+ 
+版本管理与发布
+ 
+日志检索
+ 
+ 
+返回顶部
+技术支持
+收起
+展开

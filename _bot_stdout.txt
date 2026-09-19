@@ -1,0 +1,2 @@
+[机器人] 已连接飞书（App: cli_aa24fc927cb89d11），等待消息… Ctrl+C 退出
+[Lark] [2026-09-19 16:33:35,382] [INFO] connected to wss://msg-frontier.feishu.cn/ws/v2?fpid=493&aid=552564&device_id=7687161647425817847&access_key=6582e63db76ec770a478eb551ac7cc68&service_id=33554678&ticket=7c509149-ded3-4d70-9b95-cebb73384a2c [conn_id=7687161647425817847]
